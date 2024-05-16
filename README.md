@@ -1,12 +1,12 @@
-Дататон sravni.ru 2024 команды Magnum Scopum
+# Дататон sravni.ru 2024 команды Magnum Scopum
 
-# Jupyter Notebook Template on Gitpod
+## Jupyter Notebook Template on Gitpod
 
 This is a [Jupyter Notebook](https://jupyter.org/) template configured for cloud development environments on [Gitpod](https://www.gitpod.io/).
 
 Read more about how to use Jupyter Notebooks with Gitpod in [our documentation.](https://www.gitpod.io/docs/references/ides-and-editors/jupyter-notebooks)
 
-## Next Steps
+### Next Steps
 
 Click the button below to start a new cloud development environment:
 
