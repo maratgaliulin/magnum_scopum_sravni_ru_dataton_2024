@@ -10,7 +10,5 @@ Read more about how to use Jupyter Notebooks with Gitpod in [our documentation.]
 
 Click the button below to start a new cloud development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-samples/template-jupyter-notebook)
-
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/maratgaliulin/magnum_scopum_sravni_ru_dataton_2024)
 
