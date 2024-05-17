@@ -13,7 +13,7 @@
 
 ## Использование хранилища huggingface.co
 
-Пример кода: загрузка датасета "Лог событий" для исследования с помощью бибилиотеки pandas
+Пример кода: загрузка датасета "Лог событий" в `jupyter`-ноутбук для исследования с помощью бибилиотеки pandas
 
 ```python
 import pandas as pd
@@ -33,11 +33,15 @@ event_df.info()
 ```
 
 
-## Cсылки на хранилище файлов
+## Использование хранилища Google Disk
+
+Ссылки на датасеты:
 
 * `event_data.csv` id:[1z9QeNXmygRAGnrT32Z_5BT_8BDnvfn4o](https://drive.google.com/file/d/1z9QeNXmygRAGnrT32Z_5BT_8BDnvfn4o/view?usp=sharing)
 * `adv_data.csv`   id:[1RIWBiZErIsuHKhE1Y9k_UhXpZhq_Hi5i](https://drive.google.com/file/d/1RIWBiZErIsuHKhE1Y9k_UhXpZhq_Hi5i/view?usp=sharing)
 * `users_data`     id:[1QNFHL0AcFSjXUdSfKy3wMMbLA5sSoAw4](https://drive.google.com/file/d/1QNFHL0AcFSjXUdSfKy3wMMbLA5sSoAw4/view?usp=sharing)
+
+Пример кода: загрузка датасетов во временное хранилище colab.google
 
 ```python
 !pip install gdown
