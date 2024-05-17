@@ -1,6 +1,5 @@
 plotly
 pandas
-tensorflow
 matplotlib
-torch
 numpy
+huggingface_hub
