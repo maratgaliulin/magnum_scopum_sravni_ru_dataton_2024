@@ -13,6 +13,8 @@
 
 ## Использование хранилища huggingface.co
 
+Пример кода: загрузка датасета "Лог событий" для исследования с помощью бибилиотеки pandas
+
 ```python
 import pandas as pd
 from huggingface_hub import hf_hub_download
