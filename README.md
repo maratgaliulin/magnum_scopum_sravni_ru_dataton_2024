@@ -2,7 +2,7 @@
 
 ## Исходные данные
 
-![Описание исходных данных доступно по ссылке](./datasets/README.md)
+[Описание исходных данных доступно по ссылке](./datasets/README.md)
 
 ## Jupyter Notebook Template on Gitpod
 
