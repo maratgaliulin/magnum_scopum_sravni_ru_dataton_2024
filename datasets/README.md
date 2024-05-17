@@ -8,8 +8,8 @@
 >The `datasets` folder contains the initial input data provided by the tournament organizer for completing the tasks:
 
 * `event_data.csv` - хранит лог событий
-* `adv_data` - хранит затраты на привлечение клиентов
-* `users_data` - хранит инфу о клиентах
+* `adv_data.csv` - хранит затраты на привлечение клиентов
+* `users_data.csv` - хранит инфу о клиентах
 
 ## Cсылки на хранилище файлов
 
