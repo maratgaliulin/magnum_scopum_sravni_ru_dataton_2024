@@ -1,5 +1,9 @@
 # Дататон sravni.ru 2024 команды Magnum Scopum
 
+## Исходные данные
+
+![Описание исходных данных доступно по ссылке](./datasets/README.md)
+
 ## Jupyter Notebook Template on Gitpod
 
 This is a [Jupyter Notebook](https://jupyter.org/) template configured for cloud development environments on [Gitpod](https://www.gitpod.io/).
