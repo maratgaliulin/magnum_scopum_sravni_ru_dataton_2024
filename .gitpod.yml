@@ -1,12 +1,8 @@
 tasks:
-  - id: install-dependencies
-    name: Install dependencies
-    command: pip install -r requirements.txt
-
-  - id: open-notebook
-    name: Open Jupyter Notebook
+  - name: startup
+    init: pip install -r requirements.txt
     command: gp open quickstart-demo.ipynb
-    dependsOn: [install-dependencies]
+
 
 vscode:
   extensions:
