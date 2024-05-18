@@ -1,0 +1,1 @@
+rsync /mnt/e/1.WORKING-FOLDER/3.Study/4.Финтех_бакалавриат/019.Сравни_ру_Дататон/magnum_scopum_sravni_ru_dataton_2024/data /home/egomarat/magnum_scopum_sravni_ru_dataton_2024
