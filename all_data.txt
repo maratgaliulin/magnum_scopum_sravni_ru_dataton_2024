@@ -1,0 +1,9 @@
+show,2023-03-23 00:00:50.747478,2023-03-23 00:00:50.747478,email / email,light_market_mind,api,RUB,None,2022-12-12 15:03:03.954903,79130534887,show,2023-06-09 08:19:02.530911,None,None,None,RUB,loan,
+show,2023-06-26 04:44:18.951711,2023-06-26 04:44:18.951711,android / mobile_app,case_title_brandkeys,app,RUB,None,2022-12-05 13:14:11.424364,79129133322,show,2024-01-25 15:09:28.858398,None,None,None,RUB,loan,
+show,2023-06-07 14:21:16.186214,2023-06-07 14:21:16.186214,ios / mobile_app,megamaket_case_megamaket,app,RUB,None,2022-12-05 13:14:11.424364,79129133322,show,2024-01-25 15:09:28.858398,None,None,None,RUB,loan,
+[
+  [
+    "click"
+  ]
+],
+show,2023-09-15 06:48:01.539898,2023-09-15 06:48:01.539898,email / email,adv_clickarrow_adv,web,RUB,None,2023-02-12 03:17:37.428320,79151899946,show,2023-05-16 02:55:46.937274,None,None,None,USD,loan,
