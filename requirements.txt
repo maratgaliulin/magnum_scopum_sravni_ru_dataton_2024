@@ -3,4 +3,4 @@ pandas
 matplotlib
 numpy
 huggingface_hub
-dask
+"dask[complete]"
